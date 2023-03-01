@@ -19,3 +19,11 @@ git commit -a -m "Envia todo o arquivo para o repositorio"
 git push "Enviar o codigo para o servidor"
 
 git pull "puxa o repositorio do servidor"
+
+git clone "copia a URL do Github junto com o commando"
+
+git rm "nome do arquivo" remove o arquivo
+
+cd "mostrar a pasta"
+
+cd .. "sai da pasta"
