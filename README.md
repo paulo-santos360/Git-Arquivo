@@ -41,3 +41,5 @@ git reset --hard origin/master reseta o ultimo commit"
 cd.\nome do arquivo\
 
 cd..\nome do arquivo\
+
+
