@@ -27,3 +27,17 @@ git rm "nome do arquivo" remove o arquivo
 cd "mostrar a pasta"
 
 cd .. "sai da pasta"
+
+git log "mostra o historico" q sai ou ctrl + c
+
+git mv "ex js move o novo arquivo"
+
+git mv "ex js index/novo -> troca pasta e muda o nome"
+
+git checkout arquivo "desfaz mais antes de git add quando estiver vermelho o arquivo"
+
+git reset --hard origin/master reseta o ultimo commit"
+
+cd.\nome do arquivo\
+
+cd..\nome do arquivo\
