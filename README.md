@@ -7,3 +7,9 @@ git init "inicia o git no terminal"
 git status "ver o status do arquivo"
 
 git add "adicionar arquivo a um arquivo"
+
+git add. "Adiciona todos os arquivos"
+
+git commit
+
+git commit -a -m "nome do arquivo" comita um arquivo só"
