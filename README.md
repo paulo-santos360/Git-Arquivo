@@ -1,5 +1,5 @@
 # Git-Treinamento
- Comandos de Git uso no meu dia a dia
+ Comandos de Git eu uso no meu projetos dia a dia
  
 # Comando do GIT
 git init "inicia o git no terminal"
