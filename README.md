@@ -13,3 +13,9 @@ git add. "Adiciona todos os arquivos"
 git commit
 
 git commit -a -m "nome do arquivo" comita um arquivo só"
+
+git commit -a -m "Envia todo o arquivo para o repositorio"
+
+git push "Enviar o codigo para o servidor"
+
+git pull "puxa o repositorio do servidor"
