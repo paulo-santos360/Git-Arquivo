@@ -91,15 +91,21 @@ git remote add origin url no github para sincronizar com o github
 git push-u add origin main /para enviar no github/
 
 ## SE TER PROBLEMA 
+
 HTTPS COPIA A URL - ENDEREÇO
+
 PARA REMOVER A ATUAL
 
 git remote -v para ver o endereço atual
+
 git remote rm origin - Para remover o atual
+
 git remote-v /para ver o endereço atual não mostrar nada foi removido 
 
 ## Adicionar o HTTPS
 
 git remote add origin HTTPS copia a URL no Github
+
 git remote -v /ja mostra nova origem nova
+
 git push -v origin main /ja envia nova origin
