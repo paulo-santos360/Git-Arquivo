@@ -63,3 +63,7 @@ git checkout /nome/ mudar de branch
 git checkout -b /test_criacao/ cria uma nova branch
 
 git merge - unta todas funcionalidades nunca atualizar a master
+
+## Conecta Arquivo novo no github e git
+
+toca no repositorio no github, coloca em new, coloca uma descrição, coloca public, toca em Create Repository
