@@ -38,8 +38,6 @@ git branch -d /deleta/
 
 git branch --delete segunda-branch
 
-## Mundando de branch
-
 git checkout arquivo "desfaz mais antes de git add quando estiver vermelho o arquivo"
 
 git reset --hard origin/master reseta o ultimo commit"
@@ -62,3 +60,6 @@ git branch ex.nome da branch
 
 git checkout /nome/ mudar de branch
 
+git checkout -b /test_criacao/ cria uma nova branch
+
+git merge - unta todas funcionalidades nunca atualizar a master
