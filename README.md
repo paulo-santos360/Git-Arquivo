@@ -109,3 +109,29 @@ git remote add origin HTTPS copia a URL no Github
 git remote -v /ja mostra nova origem nova
 
 git push -v origin main /ja envia nova origin
+
+##Mudando de branch
+
+git checkout /nome/ muda a branch
+
+git checkout-b /nome/ cria nova branch
+
+quando muda algum alguma funcionalidade da branch e vc da o commit -a -m 'funcionalidade' adiciona uma nova funcionalidade
+
+git checkout main /volta e mostra todas branch/
+
+git checkout /nome/ mostra nova funcionalidade
+
+salva todas as alterações antes de mudar de branch se não tem que voltar e atualizar
+
+git checkout main /main principal
+
+git branch mostra todas as main
+
+git pull puxa todas
+
+git checkout -b /nome/ cria uma nova
+
+git stash deleta e guarda as atualizações
+
+
