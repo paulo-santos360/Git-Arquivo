@@ -72,5 +72,18 @@ git status /mostra o estado, criar uma pasta no code visual
 
 cd.\nome da pasta\ a pasta criada é no seguir o comando cria a pasta
 
-1.git init inicia o repositorio 1
-2.git status mostra o arquivo-vermelho 2
+git init inicia o repositorio 
+
+git status mostra o arquivo-vermelho 
+
+git add nome do arquivo
+
+git status mostra o arquivo - azul - para enviar
+
+git commit -m 'hello word' inserir o arquivo
+
+git status da ok - mostra o status
+
+git branch -m main criando ramificação
+
+git remote add origin url no github para sincronizar com o github
