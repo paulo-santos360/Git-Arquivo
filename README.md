@@ -72,5 +72,5 @@ git status /mostra o estado, criar uma pasta no code visual
 
 cd.\nome da pasta\ a pasta criada é no seguir o comando cria a pasta
 
-1.git init inicia o repositorio
-2.git status mostra o arquivo-vermelho
+1.git init inicia o repositorio 1
+2.git status mostra o arquivo-vermelho 2
