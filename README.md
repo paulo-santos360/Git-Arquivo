@@ -42,4 +42,8 @@ cd.\nome do arquivo\
 
 cd..\nome do arquivo\
 
+git branch /mostraa mai maste
+
+git branch primeiro branch
+
 
