@@ -67,3 +67,9 @@ git merge - unta todas funcionalidades nunca atualizar a master
 ## Conecta Arquivo novo no github e git
 
 toca no repositorio no github, coloca em new, coloca uma descrição, coloca public, toca em Create Repository
+
+git status /mostra o estado, criar uma pasta no code visual
+
+cd.\nome da pasta\ a pasta criada é no seguir o comando cria a pasta
+
+*git init inicia o repositorio
