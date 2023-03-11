@@ -56,3 +56,9 @@ git branch segundo_branch
 
 git branch lista todas as branch algum nome criar outra branch
 
+## Mudando de branch
+
+git branch ex.nome da branch
+
+git checkout /nome/ mudar de branch
+
